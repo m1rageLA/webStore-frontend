@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-Initially, the project is considered as a training ground for learning React and gaining knowledge of the basics of the backend.
+....
 
 ## Primary technologies
 
